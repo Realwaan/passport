@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=astronomy" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimagespng/astronomy.png"><span class="maintext">
+
+<h1>Astronomy</h1>
+
+<ol type=1><p>
+
+<li>Identify the following in the sky:
+<ol type=a>
+<li>Ten (10) conspicuous constellations, including at least four (4) in the Zodiac.
+<li>Eight (8) stars of the first magnitude.</ol><p>
+
+<li>Chart the position of Venus and Mars among the stars over a period of at least four (4) weeks, and state the exact period of your observations.<p>
+
+<li>Sketch the position of the Big Dipper in relation to the North Star and the horizon early one evening, and again six (6) hours later the same night. Record the hour and the date of making each sketch.<p>
+
+<li>Indicate in the sky the limits of the group of stars which, as seen from your latitude, never set. By your own observation, determine whether the Big Dipper or Cassiopeia ever sets.<p>
+
+<li>Draw a diagram showing the relative positions of the sun, moon, and earth - during the new moon, first quarter, full moon, and last quarter. Draw a diagram showing the positions of the sun, moon, and earth during an eclipse of the sun and another during an eclipse of the moon.<p>
+
+<li>Explain the principal cause of tides. Draw a diagram showing the relative positions of the sun, moon, and earth during high and low tides.<p>
+
+<li>Explain the principal difference between a reflecting and a refracting telescope. Show these by a simple diagram.</ol></span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=astronomy" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

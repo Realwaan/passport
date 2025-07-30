@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=wildlifeconservation" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimagespng/wildlifeconservation.png"><span class="maintext">
+
+<h1>Wildlife Conservation</h1>
+
+<ol type=1><p>
+
+<li>Have a knowledge of the history, development, and management of wildlife conservation in the Philippines.<p>
+
+<li>With the approval of your Counselor, study one tropical wildlife community.<p>
+
+<li>Take two hikes within the area, and do the following:
+<ol type=a>
+<li>List the most commonly found plants and animals.
+<li>List three kinds of soils, and most commonly found rocks.
+<li>Describe the springs, streams, lakes, and other bodies of water.</ol><p>
+
+<li>Tell how temperature, wind, rainfall, altitude, geology, tides, wild or domestic animals or man help make the selected area what it is. Tell what is meant by plant succession. Tell what successions have taken place in the selected area in the last hundred years. Tell what will probably happen in the next hundred years if the area is undisturbed by man.<p>
+
+<li>Do two of the following:
+<ol type=a>
+<li>Identify six species of wild mammals.
+<li>Find in the field the signs of the six species of wild mammals.
+<li>Make plaster casts of the tracks of three wild mammals, or photograph two species of wild mammals.</ol><p>
+
+<li>Visit a wildlife refuge or managed area, or fishing waters. Interview the resident manager. Write a 200-word report on what is being done to improve the area for fishing, bird and/or animals wildlife.</ol>
+
+		
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=wildlifeconservation" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

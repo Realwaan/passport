@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mbcptemplate2007_2.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/img/mbcp.ico" />
+<script type="text/JavaScript" src="/script/genscripts2007.js"></script>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>Merit Badge Center, Philippines</title>
+<!-- InstanceEndEditable -->
+<link href="/css/mainstyle2007.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#FFFFFF"><img src="/img/banner_main_2007.jpg" alt="Merit Badge Center, Philippines" width="768" height="86" /></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="25%" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/" class="mainlink">What's New?</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/advancement.php" class="mainlink">Advancement Ranks</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/awards/" class="mainlink" >Awards &amp; Programs</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/meritbadgelist.php" class="mainlink" >Merit Badges (Alphabetical)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbeaglerequired.php" class="mainlink" >Merit Badges (Eagle Required)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/specialist.php" class="mainlink" >Merit Badges (Specialist Ratings)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbgroup.php" class="mainlink" >Merit Badges (Group)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/woodbadge/" class="mainlink" >Leader Training</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/forms.php" class="mainlink" >Forms &amp; Applications</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/" class="mainlink" >Publications &amp; Handouts</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/downloads.php" class="mainlink" >Clipart &amp; Wallpapers</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbcplinks.php" class="mainlink" >Sponsored Links</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/submitasite.php" class="mainlink" >Submit a Site</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/contactus/" class="mainlink" >Contact Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/aboutus.php" class="mainlink" >About Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/sitehelp.php" class="mainlink" >Help</a></td>
+              </tr>
+            </table>
+              <!-- InstanceBeginEditable name="ResourceLinks" --> <br />
+            <table width="100%" border="0" cellspacing="2" cellpadding="2">
+              <tr> 
+                <td class="navbanner">Additional Links</td>
+              </tr>
+              <tr> 
+                <td><a href="mailto:publication@meritbadge.org.ph" class="mainlink">Submit 
+                  Your Work</a></td>
+              </tr>
+            </table>
+            <p><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank" class="icon"><img src="/img/images/ico_adobeacrobat.gif" alt="Get Adobe Acrobat Reader" border="0" /></a></p>
+            <p>&nbsp;</p>
+            <!-- InstanceEndEditable --></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="5">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><!-- InstanceBeginEditable name="MainBody" --> 
+              <h1>Publications &amp; Handouts </h1>
+              <p class="maintext">The following files, unless noted, requires
+                 you to have Adobe Acrobat Reader in order to view them.  Please
+                contact us for any comments regarding the contents of our publications.</p>
+              <p class="maintext"><strong>Do you have original works that are
+                  Scouting related that you'd like to share?</strong> If you
+                  do, <a href="mailto:publication@meritbadge.org.ph">submit your
+                  work</a> to the Merit Badge Center and share with everyone
+                  else. Or, if you have a web page where you have your publication <a href="/htm/submitasite.php">submit
+                  your page</a> to us and we will include you as a sponsored
+              link on this page.</p>
+              <h2>Advancement</h2>
+              <ul class="maintext">
+                <li><span class="maintext"><a href="/pub/pdf/les_conductingbors.pdf">Conducting 
+                  Boards of Review</a> (110KB)</span></li>
+                <li><span class="maintext"><a href="/pub/pdf/notes_earningmb.pdf">How
+                  to Earn a Merit Badge </a>(60KB)<sup>1</sup></span></li>
+                <li><span class="maintext"><a href="/pub/pdf/les_meritbadgecounselor.pdf">Merit
+                       Badge Counseling</a> (99KB)</span></li>
+                <li><a href="/htm/pub/ws.php">Merit Badge Worksheets...</a></li>
+                <li><a href="/pub/pdf/les_2mbpolicy.pdf">Response Against the
+                  Two Merit Badge Per Month Rationale</a>                  (126KB) </li>
+              </ul>
+              <h2>Leaders' Library</h2>
+              <ul class="maintext">
+                <li class="maintext"><a href="/pub/pdf/ll_leadership.pdf">Leadership</a> (223KB)<sup>2</sup></li>
+                <li><a href="/pub/pdf/ll_pornonwww.pdf">Pornography on the World
+                     Wide Web</a> (201KB)</li>
+                <li><a href="/pub/pdf/ll_unitwebsite.pdf">Starting a Unit Website</a> (598KB)</li>
+                <li><a href="/pub/pdf/ll_todomydutystmt.pdf">To Do My Duty</a> (125KB) </li>
+                <li><a href="/pub/pdf/ll_youthprotection.pdf">Youth Protection
+                Guidelines</a> (145KB) </li>
+              </ul>
+              <h2>Lord R.S.S. Baden-Powell Books</h2>
+              <ul class="maintext">
+                <li><a href="/downloads/bp_book/a2s.pdf">Aids to Scoutmastership</a> 
+                  (503KB)</li>
+                <li><a href="/downloads/bp_book/bpoutlook.pdf">B.-P.'s Outlook</a> 
+                  (1.53MB)</li>
+                <li><a href="/downloads/bp_book/chiefscoutsyarns.pdf">The Chief
+                Scout Yarns</a> (1.58MB) </li>
+                <li><a href="/downloads/bp_book/lifesnag.pdf">Life's Snags and 
+                  How to Meet Them</a> (904KB)</li>
+                <li><a href="/downloads/bp_book/r2s.pdf">Rovering to Success</a> (1.72MB)</li>
+                <li><a href="/htm/pub/sfb.php">Scouting for Boys...</a>                </li>
+                <li><a href="/downloads/bp_book/bpgames.pdf">Scouting Games</a> (133KB) </li>
+              </ul>
+              <p class="fineprint"><strong>NOTE:</strong> Books by Robert 
+                    Stephenson Smyth Baden-Powell are courtesy of Scouts Canada. 
+                    They are presented with their original form. Some of the content 
+                    of these manuals may no longer apply to present day practices, 
+                    therefore these manuals should only be used in conjunction 
+                    with manuals provided by the Boy Scouts of the Philippines 
+                    or the National Scout Association you belong to. </p>
+              <h2>Notes on Scouting</h2>
+              <ul class="maintext">
+                <li><a href="/pub/pdf/notes_compass.pdf">Compass Reading</a> (198KB)</li>
+                <li><a href="/pub/pdf/notes_estimation.pdf">Estimation of Heights
+                and Distances </a>(154KB)</li>
+                <li><a href="/pub/pdf/notes_northwocompass.pdf">Finding North
+                without a Compass</a> (104KB)</li>
+                <li><a href="/pub/pdf/notes_firebuilding.pdf">Fire Building</a> (212KB)</li>
+                <li><a href="/pub/pdf/pps_fundamentals.pdf">Fundamental Principles
+                of Scouting</a> (113KB) </li>
+                <li><a href="/pub/pdf/notes_hiking.pdf">Hiking</a> (125KB) </li>
+                <li><a href="/pub/pdf/notes_history101.pdf">History of Scouting</a> (523KB)</li>
+                <li><a href="/pub/pdf/notes_flag101.pdf">History of the Philippine
+                Flag</a> (158KB)</li>
+                <li><a href="/pub/pdf/notes_ideals.pdf">Ideals of Scouting</a> (90KB)</li>
+                <li><a href="/pub/pdf/notes_morsecode.pdf">International Morse
+                Code</a> (88KB)</li>
+                <li><a href="/pub/pdf/notes_scoutsongs01.pdf">Scout Songs</a> (202KB)<sup>3</sup></li>
+              </ul>
+              <h2>Online Publications</h2>
+              <ul class="maintext">
+                <li><a href="/history/">The Philippine Scouting Movement: Our 
+                  Story </a></li>
+              </ul>
+              <h2>Power-Point Show</h2>
+              <ul>
+                <li class="maintext"><a href="/pub/ppt/scouting_fundamental.pps">Fundamental
+                Principles of Scouting</a> (512KB)</li>
+              </ul>
+              <h2>Wood Badge</h2>
+              <ul class="maintext">
+                <li><a href="/htm/woodbadge/wb_training02_btc_kl.php">BTC-KL Handouts...</a><sup>4</sup></li>
+                <li><a href="/htm/woodbadge/wb_training02_btc_tl.php">BTC-TL Handouts...</a><sup>4</sup></li>
+                <li> <a href="/downloads/wbta.pdf">Sample Training Assignment </a> 
+                  (202KB)</li>
+                <li><span class="maintext"><a href="/downloads/wbts.pdf">Sample Training Studies 1 </a> (197KB)</span></li>
+                <li><a href="/downloads/wbts_caones.pdf">Sample Training Studies 2 </a> (133KB) </li>
+              </ul>
+              <p class="fineprint">_____________________<br />
+              1 - From the Advancement and Merit Badge Handbook <br />
+              2 - From the Grace Christian High School Scout Center<br />
+                3 - From Scouter Leonides Son<br />
+                4 - From Minister Leonides T. Son, Manila Council, BSP </p>
+              <p class="maintext">&nbsp;</p>
+          <!-- InstanceEndEditable --></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellpadding="3" cellspacing="1" class="tablebordertopbot">
+          <tr>
+            <td width="50%">Copyright &copy; 2007, Merit Badge Center, Philippines </td>
+            <td width="50%" align="right" background="/htm/pub/mbcpterms.php" class="fineprint"><a href="/htm/pub/mbcpterms.php" class="stealth">Terms, Conditions, and Information</a> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+          <tr>
+            <td>Since August 4, 1999<br />
+              Fourth Edition September 30, 2003 </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

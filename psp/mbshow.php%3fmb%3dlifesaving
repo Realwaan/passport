@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=lifesaving" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimages/eaglerequired.jpg"><img src="/mbimagespng/lifesaving.png"><span class="maintext">
+
+<h1>Lifesaving</h1>
+
+
+<ol type=1><p>
+
+(These tests must be performed before a Counselor who is a Certified Water Safety Instructor of the Philippine National Red Cross or who holds an Aquatic School Certificate of the Boy Scouts of the Philippines for Life Saving)<p>
+
+<li>Earn the <a href="/htm/meritbadges.php?mb=swimming">Swimming</a> Merit Badge.
+  <p>
+
+<li>Do the following:
+<ol type=a>
+<li>Spend at least six hours in preparing and practicing lifesaving skills
+<li>Surface dive into open water, 2 to 3 meters deep, recovering various objects three times and a 5-kilo weight once.</ol><p>
+
+<li>Show the following:
+<ol type=a>
+<li>For two times, remove your street clothes in 30 seconds or less. (Street clothes means socks, shoes, trousers, barong/shirt/sweatshirt).
+<li>The correct approach to a drowning person who is in the following positions:
+	<ol type=1>
+	<li>Back to Scout - Back Approach
+	<li>Face to Scout with head above water - Underwater Approach</ol><p>
+</ol>
+<li>With the help of a buddy and a subject, show the following rope rescue (reel-in rescue) both as line tender and as rescuer:
+<ol type=a>
+<li>As rescuer - carrying the looped end of a rope 20 meters long, ½-centimeter in diameter across your shoulder and chest, make a running or leaping entry into the water, swim 20 meters to struggling subject, and tow him ashore with the rope
+<li>As line tender - chain know rescue line. Tie and place loop around rescuer's shoulder, pay out rope and pull rescuer and subject ashore</ol><p>
+
+<li>Keeping in sight a struggling person, enter the water feet first and -
+<ol type=a>
+<li>Swim 10 meters, make correct approach, and tow victim 10 meters to shore with cross-chest carry
+<li>Swim 10 meters, make correct approach, and tow victim 10 meters to shore with hair carry
+<li>Swim 10 meters, make correct approach, and tow victim 10 meters to shore with collar or wrist carry
+<li>Swim 10 meters, make correct approach to a tired swimmer, carry and push him 10 meters to shore</ol><p>
+
+<li>Do the following:
+<ol type=a>
+<li>In water at least two meters deep, show how to block effectively and avoid the attempts of a struggling person to grasp you around the neck with right arm and with both arms. In each case, show how to tow him ashore
+<li>In water at least two meters deep, show how to disengage yourself from any of the following grasps:
+	<ol type=1>
+	<li>Wrist
+	<li>Front head hold
+	<li>Rear head hold
+	<li>Arms around the body, at the front, below the armpit
+	<li>Arms around the body from back</ol>
+<li>Demonstrate resuscitation for two minutes using the mouth-to-mouth method with external cardiac massage.</ol></ol>
+
+
+
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=lifesaving" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

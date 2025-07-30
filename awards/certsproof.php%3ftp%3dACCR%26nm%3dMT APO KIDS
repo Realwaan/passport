@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mbcptemplate2007_2.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/img/mbcp.ico" />
+<script type="text/JavaScript" src="/script/genscripts2007.js"></script>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>Merit Badge Center, Philippines</title>
+<!-- InstanceEndEditable -->
+<link href="/css/mainstyle2007.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" --> 
+<style type="text/css">
+<!--
+.redtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8.5pt;
+	color: #FF0000;
+}
+.bluetext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#FFFFFF"><img src="/img/banner_main_2007.jpg" alt="Merit Badge Center, Philippines" width="768" height="86" /></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="25%" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/advancement.php" class="mainlink">Advancement Ranks</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/awards/" class="mainlink" >Awards &amp; Programs</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/meritbadgelist.php" class="mainlink" >Merit Badges (Alphabetical)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbeaglerequired.php" class="mainlink" >Merit Badges (Eagle Required)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/specialist.php" class="mainlink" >Merit Badges (Specialist Ratings)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbgroup.php" class="mainlink" >Merit Badges (Group)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/woodbadge/" class="mainlink" >Leader Training</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/forms.php" class="mainlink" >Forms &amp; Applications</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/" class="mainlink" >Publications &amp; Handouts</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/downloads.php" class="mainlink" >Clipart &amp; Wallpapers</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbcplinks.php" class="mainlink" >Sponsored Links</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/submitasite.php" class="mainlink" >Submit a Site</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/contactus/" class="mainlink" >Contact Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/aboutus.php" class="mainlink" >About Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/sitehelp.php" class="mainlink" >Help</a></td>
+              </tr>
+            </table>
+              <!-- InstanceBeginEditable name="ResourceLinks" --><br />
+                        <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr>
+                            <td class="navbanner">Additional Links </td>
+                          </tr>
+                          <tr>
+                            <td><a href="/htm/awards/certs.php?tp=list" class="mainlink">List
+                              of Awardees</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/htm/awards/certs.php" class="mainlink">Retrieve
+                              a Certificate</a></td>
+                          </tr>
+                          <tr>
+                            <td><a href="/htm/awards/certscriterion.php" class="mainlink">Merit
+                              Badge Center Certificates</a></td>
+                          </tr>
+                        </table> 
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+            <!-- InstanceEndEditable --></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="5">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><!-- InstanceBeginEditable name="MainBody" -->
+		  <p>
+		    <h2>Accreditation</h2><p class="maintext"><b>Presented to:</b> MT APO KIDS</p><p class="maintext"><b>URL: </b><a href="http://n.domaindlx.com/apokids/" target="_blank">http://n.domaindlx.com/apokids/</a></p><p class="maintext"><b>Presented on:</b> November 2005</p><p class="fineprint">If this is your certificate, you may retrieve a copy of your certificate from our <a href="/htm/awards/certs.php">Certificates Page</a>. You will need the date and control number assigned to your certificate. You may <a href="/contactus.php">contact us</a> if you need assistance.<form action="/htm/awards/certs.php" method="post"><input type="Hidden" value="list" name="tp"><input type="Submit" value="Return to Certificate List"></form><form action="/htm/awards/certs.php"><input type="Submit" value="Retrieve a Certificate"></form>          </p><!-- InstanceEndEditable --></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellpadding="3" cellspacing="1" class="tablebordertopbot">
+          <tr>
+            <td width="50%">Copyright &copy; 2007, Merit Badge Center, Philippines </td>
+            <td width="50%" align="right" background="/htm/pub/mbcpterms.php" class="fineprint"><a href="/htm/pub/mbcpterms.php" class="stealth">Terms, Conditions, and Information</a> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+          <tr>
+            <td>Since August 4, 1999<br />
+              Fourth Edition September 30, 2003 </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

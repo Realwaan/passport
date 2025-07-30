@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=naturelore" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimagespng/naturelore.png"><span class="maintext">
+
+<h1>Nature Lore</h1>
+
+<ol type=1><p>
+
+<li>After personal investigation, select for study one typical wildlife community, approved by your Counselor - forest, field, marsh, pond, mountaintop, ocean, shore, etc. - near your home or at a favorite campsite. Take at least two hikes within that area, and do the following:
+<ol type=a>
+<li>Submit a list of the most commonly found plants (trees, shrubs, flowers, grasses, etc.), and animals (mammals, birds, reptiles, amphibians, fish, insects, mollusks).
+<li>Report on kinds of soils and most commonly found rocks.
+<li>Describe springs, streams, lakes, and other bodies of water found.</ol><p>
+
+<li>From readings or talks with your Counselor - tell how temperature, wind, rainfall, altitude, geology, tide, wild or domestic animals, or man help make the selected area what it is. Tell what is meant by the term "plant succession". Tell briefly what successions have occurred in the selected area in the last fifty years, and what would probably happen in the next fifty years if the area is left undisturbed by man.<p>
+
+<li>Do all of the requirements in two of the following fields:<p>
+
+Birds
+<ol type=a>
+<li>Identify in the field fifteen species of birds.
+<li>Recognize ten species of birds by calls or songs, or determine their presence by nests or other signs.
+<li>Make and set out three bird-houses or two feeding stations, and tell what birds used them; or photograph nests of four species of birds.</ol><p>
+
+Mammals
+<ol type=a>
+<li>Identify in the field six species of wild mammals.
+<li>Recognize in the field the signs of six species of wild mammals.
+<li>Make plaster casts of the tracks of three will mammals; or photograph two species of wild mammals.</ol><p>
+
+Reptiles and Amphibians
+<ol type=a>
+<li>Recognize the poisonous snakes in your area, and identify in the field six species of reptiles of amphibians (snakes, turtles, lizards, frogs, toads, salamanders).
+<li>Recognize two species of toads or frogs by their voices; or identify three reptiles or amphibians by their eggs, dens, burrows, or other signs.
+<li>Raise tadpoles from the eggs of some amphibians, or raise adults from tadpoles; or keep an adult reptile or amphibian under conditions that keep it healthy for one month.</ol><p>
+
+Insects and Spiders
+<ol type=a>
+<li>Catch and identify thirty (30) species.
+<li>Collect and mount thirty (30) species.
+<li>Raise an insect from the pupa or cocoon, or raise adults from nymphs, or keep larvae until they for pupae or cocoons; or keep a colony of ants or bees for three months.</ol><p>
+
+Fish
+<ol type=a>
+<li>Catch and identify four (4) species of fish.
+<li>Collect four kinds of natural animal food eaten by fish; or make lur and catch fish with it.
+<li>Develop a simple aquarium containing fish and plant life and keep it successfully balanced for one month.</ol><p>
+
+Mollusks
+<ol type=a>
+<li>Identify five species of mollusks and crustaceans (clam, mussels, snails, shrimps, crags, crayfish).
+<li>Mount at least six shells.
+<li>Make an aquarium and keep in it two species of mollusks or crustaceans under such conditions that they stay healthy for one month.</ol><p>
+
+Plants
+<ol type=a>
+<li>Identify in the field fifteen species of wild plants (trees, shrubs, ferns, grasses, mosses, etc.)
+<li>Collect and label correctly seeds of six plants; or collect, mount, and label leaves of twelve plants.
+<li>Build a terrarium of at least three species of plants, and keep it successfully for one month.</ol><p>
+
+Soils and Rocks
+<ol type=a>
+<li>Collect and identify soils found in three soil profiles; or ten rocks representative of the area.
+<li>Find at least six species of animals that live in soil.
+<li>Grow seeds for one month in two kinds of soil, and describe the difference in rate of growth.</ol><p>
+
+<li>Select one species of plant, mammal, bird, fish, reptile, or amphibian - and from personal observation and reading, write a simple life history (how and where and when it originated, how it grow, what it eats, what eats it, migratory habits if any, its natural home, etc.)</ol>
+
+
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=naturelore" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

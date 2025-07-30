@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <script>
+      (function(){
+          setTimeout(function(){
+              window.location.reload();
+          }, 2000);
+      }())
+  </script>
+  <link rel="icon" href="data:,">
+  <title>One moment, please...</title>
+  <style>
+.spinner {
+    -webkit-animation: spin 1s ease-out;
+    animation: spin 1s ease-out;
+}
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+#outer-container {
+    text-align: center;
+}
+#container {
+        display: inline-block;
+        height: 100px;
+    }
+#text {
+    float: left;
+    height: 100px;
+    line-height: 100px;
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 .4em 0 .2em;
+    letter-spacing: 0.06em;
+    color: rgba(38, 122, 72, 0.86);
+}
+@media (min-height: 180px) {
+    #outer-container {
+        margin-top: 0;
+    }
+}
+@media (min-height: 360px) {
+    #outer-container {
+        margin-top: 5%;
+    }
+}
+@media (min-height: 540px) {
+    #outer-container {
+        margin-top: 10%;
+    }
+}
+@media (min-height: 720px) {
+    #outer-container {
+        margin-top: 20%;
+    }
+}
+@media (min-width: 1450px) {
+    .throbber {
+        width: 90px;
+        height: 90px;
+        float: left;
+        padding: 5px 0 5px 5px;
+        opacity: 0.86;
+    }
+    #container {
+        display: inline-block;
+        border: 3px solid rgb(38, 122, 72, 0.86);
+        border-radius: 51px;
+        height: 100px;
+    }
+}
+
+  </style>
+</head>
+<body>
+  <div id="outer-container">
+    <div id="container">
+<div class="throbber">
+    <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
+         version="1.1"
+         xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Loader</title>
+        <defs>
+            <polygon id="path-1"
+                     points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
+        </defs>
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none"
+           fill-rule="evenodd">
+            <g id="Logo" transform="translate(-5.000000, -2.000000)">
+                <g id="Group-2" transform="translate(5.000000, 2.000000)">
+                    <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
+                          id="Fill-1" fill="#467C45"></path>
+                    <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
+                          id="Fill-3" fill="#467C45"></path>
+                    <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
+                          id="Fill-5" fill="#467C45"></path>
+                    <g id="Group-9"
+                       transform="translate(0.000000, 11.919659)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
+                              id="Fill-7" fill="#467C45"
+                              mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
+                          id="Fill-10" fill="#467C45"></path>
+                    <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
+                          id="Fill-12" fill="#467C45"></path>
+                    <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
+                          id="Fill-14" fill="#467C45"></path>
+                    <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
+                          id="Fill-16" fill="#467C45"></path>
+                </g>
+            </g>
+        </g>
+    </svg>
+</div>
+      <div id="text">
+        Please wait while your request is being verified...
+      </div>
+    </div>
+  </div>
+  <div id="na2i7wz4esz6"></div>
+  <script>
+var a0s=a0j;(function(M,i){var a0a={M:0x135,i:0x10d,p:0x11f,j:0x104,N:0x10b,K:0x12b,u:0x129,r:0x130},m=a0j,p=M();while(!![]){try{var j=-parseInt(m(a0a.M))/0x1*(-parseInt(m(a0a.i))/0x2)+-parseInt(m(a0a.p))/0x3*(parseInt(m(a0a.j))/0x4)+-parseInt(m(a0a.N))/0x5+-parseInt(m(0x122))/0x6+parseInt(m(0x12a))/0x7*(-parseInt(m(a0a.K))/0x8)+parseInt(m(a0a.u))/0x9*(parseInt(m(0x10e))/0xa)+-parseInt(m(0x13c))/0xb*(-parseInt(m(a0a.r))/0xc);if(j===i)break;else p['push'](p['shift']());}catch(N){p['push'](p['shift']());}}}(a0p,0xa96e4));function a0p(){var Y=['type','ne;','userAgent','submit','47068368MnDLsk','appendChil','navigator','method','prototype','1565LidDzV','outerHeigh','__proto__','attachEven','GET','stener','append','11pAwKxk','(((.+)+)+)','form','Loaded','769236gSARKw','map','action','createElem','ent','DOMContent','length','1850215giSJTr','open','260cwoKmN','1200xvVtLD','name','toString','input','search','hidden','document','7fa3b767c4','display:no','0950635027','addEventLi','mimeTypes','webdriver','a6105c0a61','60b54a2be4','test','filter','18GGRKKO','value','constructo','8225370akteHm','appVersion','style','plugins','apply','1b41b08f12','techange','24840gNfWYA','14tuAnzD','3472936APhGnI'];a0p=function(){return Y;};return a0p();}function a0j(M,i){var p=a0p();return a0j=function(j,N){j=j-0x101;var K=p[j];return K;},a0j(M,i);}var a0N=window[a0s(0x132)],a0K={'webdriverCheck':function(){var D=a0s;return D(0x11a)in window||!!a0N['webdriver'];},'userAgentCheck':function(){var a0w={M:0x11d},T=a0s;return/headless|bytespider/i[T(a0w.M)](a0N[T(0x12e)]);},'appVersionCheck':function(){var U=a0s;return/headless/i[U(0x11d)](a0N[U(0x123)]);},'pluginArraySpoofing':function(){var a0n={M:0x134,i:0x10a},S=a0s;let M=PluginArray[S(a0n.M)]===a0N[S(0x125)][S(0x137)];if(a0N[S(0x125)][S(a0n.i)]>0x0)M&=Plugin['prototype']===a0N[S(0x125)][0x0][S(0x137)];return!M;},'mimeTypeArraySpoofing':function(){var a0v={M:0x119,i:0x137,p:0x10a},R=a0s;let M=MimeTypeArray[R(0x134)]===a0N[R(a0v.M)][R(a0v.i)];if(a0N[R(0x119)][R(a0v.p)]>0x0)M&=MimeType['prototype']===a0N[R(0x119)][0x0][R(0x137)];return!M;},'noLanguage':function(){var a0h={M:0x10a},x=a0s;return!a0N['language']||a0N['languages'][x(a0h.M)]===0x0;},'zeroOuterDimensions':function(){var d=a0s;return window[d(0x136)+'t']===0x0&&window['outerWidth']===0x0;}},a0u=function(p,j){var a0g={M:0x109,i:0x103,p:0x138,j:0x128},a0L={M:0x110,i:0x121,p:0x112,j:0x101},e=a0s,N=(function(){var u=!![];return function(r,C){var O=u?function(){var B=a0j;if(C){var A=C[B(0x126)](r,arguments);return C=null,A;}}:function(){};return u=![],O;};}()),K=N(this,function(){var l=a0j;return K[l(a0L.M)]()['search'](l(0x101)+'+$')[l(a0L.M)]()[l(a0L.i)+'r'](K)[l(a0L.p)](l(a0L.j)+'+$');});K(),window['addEventLi'+e(0x13a)]?window['document'][e(0x118)+'stener'](e(a0g.M)+e(a0g.i),p,j):window[e(0x114)][e(a0g.p)+'t']('onreadysta'+e(a0g.j),p);};a0u(function(){var a0V={M:0x114,i:0x114,p:0x108,j:0x111,N:0x107,K:0x105,u:0x11e,r:0x13b,C:0x117,O:0x10c,A:0x139,f:0x124,t:0x120,P:0x12c,E:0x113,b:0x120,Q:0x11c,Z:0x131,H:0x12f};setTimeout(function(){var k=a0j,M=window[k(a0V.M)]['getElement'+'ById']('na2i7wz4esz6'),i=+((+!+[]+!![]+!![])+(+!+[]+!![]+[])+(+!+[]+!![])+(+!+[]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+[])+(+!+[])),p=window[k(a0V.M)]['createElem'+'ent'](k(0x102)),j=window[k(a0V.i)][k(0x107)+'ent'](k(0x111)),N=window[k(0x114)][k(0x107)+k(a0V.p)](k(a0V.j)),K=window[k(0x114)][k(a0V.N)+k(a0V.p)](k(0x111)),u=window['document'][k(0x107)+k(0x108)]('input'),r=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![])),C='wsidchk',O='pdata',A='https%3A%2F%2Fmbcenter.org%2Fhtm%2Fmbquicklink.php',f='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',t='failedChecks',P=Object['entries'](a0K)[k(a0V.K)](([Z,H])=>{try{return H()?Z:null;}catch(o){return null;}})[k(a0V.u)](Z=>Z!==null),E=P[k(0x10a)]>0x0;if(E){var b=new URLSearchParams();b[k(a0V.r)]('id',k(0x11b)+k(0x127)+k(a0V.C)+'9e'),b[k(0x13b)]('ts','1750796390'),b[k(0x13b)](C,i+r),b[k(a0V.r)](O,A),P['forEach'](Z=>b[k(0x13b)](t,Z));var Q=new XMLHttpRequest();Q[k(a0V.O)](k(a0V.A),f+'?'+b[k(0x110)]()),Q['send'](null);}else p['id']='na2i7wz4esz6',p[k(a0V.f)]=k(0x116)+k(0x12d),p[k(0x133)]=k(0x139),p[k(0x106)]=f,j['id']='nimxvvu1nwcg',j[k(0x10f)]=C,j[k(a0V.t)]=i+r,j[k(a0V.P)]=k(a0V.E),K['name']='id',K[k(a0V.b)]=k(0x115)+k(a0V.Q)+'d49030b349'+'c7',K['type']=k(a0V.E),u[k(0x10f)]='ts',u['value']='1750796390',u['type']=k(0x113),N['id']='oc2pnx2nepe9',N[k(0x10f)]=O,N[k(a0V.b)]=A,N[k(0x12c)]=k(0x113),p[k(a0V.Z)+'d'](j),p[k(0x131)+'d'](N),p[k(0x131)+'d'](K),p[k(0x131)+'d'](u),M['appendChil'+'d'](p),p[k(a0V.H)]();},0x3e8);},![]);
+  </script>
+</body>
+</html>

@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mbcptemplate2007_2.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/img/mbcp.ico" />
+<script type="text/JavaScript" src="/script/genscripts2007.js"></script>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>Merit Badge Center, Philippines</title>
+<!-- InstanceEndEditable -->
+<link href="/css/mainstyle2007.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" --> 
+<style type="text/css">
+<!--
+.redtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8.5pt;
+	color: #FF0000;
+}
+.bluetext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#FFFFFF"><img src="/img/banner_main_2007.jpg" alt="Merit Badge Center, Philippines" width="768" height="86" /></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="25%" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/advancement.php" class="mainlink">Advancement Ranks</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/awards/" class="mainlink" >Awards &amp; Programs</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/meritbadgelist.php" class="mainlink" >Merit Badges (Alphabetical)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbeaglerequired.php" class="mainlink" >Merit Badges (Eagle Required)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/specialist.php" class="mainlink" >Merit Badges (Specialist Ratings)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbgroup.php" class="mainlink" >Merit Badges (Group)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/woodbadge/" class="mainlink" >Leader Training</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/forms.php" class="mainlink" >Forms &amp; Applications</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/" class="mainlink" >Publications &amp; Handouts</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/downloads.php" class="mainlink" >Clipart &amp; Wallpapers</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbcplinks.php" class="mainlink" >Sponsored Links</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/submitasite.php" class="mainlink" >Submit a Site</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/contactus/" class="mainlink" >Contact Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/aboutus.php" class="mainlink" >About Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/sitehelp.php" class="mainlink" >Help</a></td>
+              </tr>
+            </table>
+              <!-- InstanceBeginEditable name="ResourceLinks" --> <br />
+              <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                <tr>
+                  <td class="navbanner">Additional Links </td>
+                </tr>
+                <tr>
+                  <td><a href="/htm/awards/certs.php?tp=list" class="mainlink">List
+                    of Awardees</a></td>
+                </tr>
+                <tr>
+                  <td><a href="/htm/awards/certs.php" class="mainlink">Retrieve
+                    a Certificate</a></td>
+                </tr>
+                <tr>
+                  <td><a href="/htm/awards/certscriterion.php" class="mainlink">Merit
+                    Badge Center Certificates</a></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+            <!-- InstanceEndEditable --></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="5">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><!-- InstanceBeginEditable name="MainBody" -->
+		  <p><h1>Certificates Issued</h1>
+<p class="maintext">Following is the list of certificate recipients. If your name appears below you can <a href="/htm/awards/certs.php">retrieve your certificate online</a>.</p><h2>Commendation</h2>
+<p class="maintext">For outstanding and extra-ordinary actions by individuals or groups that exemplified values that the Scouting Movement holds highly ideal.</p>
+<ul class="maintext">
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Benny Costes">Benny Costes</a>, <span class="fineprint">August 2007</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Christopher Ragudo">Christopher Ragudo</a>, <span class="fineprint">March 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=The De La Salle Brothers">The De La Salle Brothers</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=De La Salle University-Manila">De La Salle University-Manila</a>, <span class="fineprint">November 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Filipino B. Ramos">Filipino B. Ramos</a>, <span class="fineprint">June 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Dr. Jacobb-Josephson Caones">Dr. Jacobb-Josephson Caones</a>, <span class="fineprint">August 2007</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Leonides T. Son">Leonides T. Son</a>, <span class="fineprint">June 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=Romi Garduce">Romi Garduce</a>, <span class="fineprint">November 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=C&nm=University of the Philippines College of Law">University of the Philippines College of Law</a>, <span class="fineprint">November 2005</span></li>
+</ul>
+ <h2>Accreditation</h2>
+<p class="maintext">For being true to the Oath of "I Will Do My Best..." For Scouting websites, particularly by Filipinos, that maintains a level of quality in all aspects of content, design, and functionality.</p>
+<ul class="maintext">
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=Alpha Phi Omega">Alpha Phi Omega</a>, <span class="fineprint">November 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=The Boy Scouts of the Philippines">The Boy Scouts of the Philippines</a>, <span class="fineprint">November 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=Chiang Kai Shek College Scout Center">Chiang Kai Shek College Scout Center</a>, <span class="fineprint">November 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=The Girl Scouts of the Philippines">The Girl Scouts of the Philippines</a>, <span class="fineprint">August 2007</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=MT APO KIDS">MT APO KIDS</a>, <span class="fineprint">November 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=ACCR&nm=The Ten Outstanding Boy Scouts of the Philippines Association">The Ten Outstanding Boy Scouts of the Philippines Association</a>, <span class="fineprint">November 2006</span></li>
+</ul>
+ <h2>Appreciation</h2>
+<p class="maintext">For contributions to the success of this website, be it direct or indirect, the Merit Badge Center extends its gratitude to the following:</p>
+<ul class="maintext">
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Aelaena Rae Sy">Aelaena Rae Sy</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=The Boy Scouts of the Philippines">The Boy Scouts of the Philippines</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Christina Pavilion-Fajardo">Christina Pavilion-Fajardo</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Christopher Ragudo">Christopher Ragudo</a>, <span class="fineprint">March 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Dr. Jacobb-Josephson Caones">Dr. Jacobb-Josephson Caones</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Leonides T. Son">Leonides T. Son</a>, <span class="fineprint">June 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Michael Kauffmann">Michael Kauffmann</a>, <span class="fineprint">October 2005</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Ralphie Ngo">Ralphie Ngo</a>, <span class="fineprint">June 2006</span></li>
+<li><a href="/htm/awards/certsproof.php?tp=A&nm=Roman Sirilan III">Roman Sirilan III</a>, <span class="fineprint">October 2005</span></li>
+</ul>
+ <p>&nbsp;</p><form action="/htm/awards/certs.php"><input type="Submit" value="Retrieve A Certificate"></form><p>&nbsp;</p>          </p>
+                <!-- InstanceEndEditable --></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellpadding="3" cellspacing="1" class="tablebordertopbot">
+          <tr>
+            <td width="50%">Copyright &copy; 2007, Merit Badge Center, Philippines </td>
+            <td width="50%" align="right" background="/htm/pub/mbcpterms.php" class="fineprint"><a href="/htm/pub/mbcpterms.php" class="stealth">Terms, Conditions, and Information</a> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+          <tr>
+            <td>Since August 4, 1999<br />
+              Fourth Edition September 30, 2003 </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

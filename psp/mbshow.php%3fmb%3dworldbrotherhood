@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=worldbrotherhood" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimages/eaglerequired.jpg"><img src="/mbimagespng/worldbrotherhood.png"><span class="maintext">
+<h1>World Brotherhood</h1>
+
+
+<ol type=1><p>
+<li>Have an elementary knowledge of the geography, history, customs and characteristics of people of at least three countries other than your own<p>
+
+<li>Correspond regularly for a period of not less than one year (write at least six letters and receive at least three replies) with a Scout of another country. (Your project may be done individually or as part of an Outfit "link up" Request for contact with overseas Scouts may be made with the Boy Scouts of the Philippines, National Headquarters, Manila).<p>
+
+<li>Give an informative talk of at least 3-minute duration to the members of your Crew or Outfit on the interest and knowledge gained by corresponding with or visiting a Scout of another country.<p>
+
+<li>Do the following:
+<ol type=a>
+<li>Tell in your own words how the Scouting Movement began. Point out on a world map the five Scouting regions and identify at least thirty countries which have Scouting.
+<li>Describe and demonstrate at least three ways by which Scouts from various countries can recognize one another (by similarities in uniforms, insignias, badges, oath and law, motto, sign, handshakes, etc.)
+<li>Explain the organization and operation of the World Organization of the Scout Movement (Conference, Committee and Bureau)</ol><p>
+
+<li>Do any three of the following:
+<ol type=a>
+<li>Identify the flag of the United Nations and those of at least twelve member countries
+<li>Read the preamble of the Charter of the United Nations; outline in your own words the purpose of the United Nations Organization as set forth in Chapter I of its charter.
+<li>Describe the work of the specialized agencies of the United Nations
+<li>Read the Universal Declaration of Human Rights and list at least five rights directly related to you and your family.</ol><p>
+
+<li>Do any three of the following:
+<ol type=a>
+<li>Take part in some practical activity of an international character such as the collection or distribution of relief supplies, the reception and entertainment of visitors from overseas or assist in a project of a non-partisan organization to promote world brotherhood.
+<li>Camp at least five days with Scouts of another country either in your own or in a foreign country. Keep a log book covering the event and note down your impressions. Show that you have a fair understanding of the culture, customs and characteristics of the Scouts you had camped with.
+<li>Carry on a conversation with another person in a foreign language for at least five minutes; translate at least 100 words of that language given by the Counselor
+<li>Keep an album or scrapbook for at least one year depicting activities of another country
+<li>Relate briefly to the members of your Crew/Outfit the history of Scouting in three member countries of the World Organization of the Scout Movement. Draw their Scout Emblems.</ol></ol>
+
+
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=worldbrotherhood" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

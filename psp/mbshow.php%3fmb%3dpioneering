@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=pioneering" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimagespng/pioneering.png"><span class="maintext">
+
+<h1>Pioneering</h1>
+
+<ol type=1><p>
+
+<li>Make a gadget for making rope, using local materials. With this gadget, make a 20-foot rope, ½ inch or more in diameter. Whip the ends. Hand coil a length of rope.<p>
+
+<li>Explain the following:
+<ol type=a>
+<li>Kinds of rope
+<li>Care for rope
+<li>Weakening effects of knots</ol><p>
+
+<li>Tie twelve knots and hitches, and explain how to use them in pioneering.<p>
+
+<li>Make short, long, end, and eye splices - and explain the uses of each.<p>
+
+<li>Lash spars together, properly using square, diagonal, and shear lashings.<p>
+
+<li>Following an approved design, construct any of the following: bamboo bridge, signal tower, monkey bridge, raft, or shelter. Use lashings as needed in the construction. Explain the principles involved in the construction. Request the members of your Patrol to assist in the construction.<p>
+
+<li>Do any three of the following:
+<ol type=a>
+<li>Make a three-strand Turk's Head neckerchief slide.
+<li>Show how to make a camp kitchen.
+<li>Explain and demonstrate pioneering anchorages for different projects in various types of soil.
+<li>Demonstrate Patrol leadership in constructing a pioneering project designed by yourself.
+<li>Make and submit two (2) scale models of pioneering projects.</ol></ol>
+
+
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=pioneering" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

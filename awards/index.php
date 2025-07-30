@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mbcptemplate2007_2.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/img/mbcp.ico" />
+<script type="text/JavaScript" src="/script/genscripts2007.js"></script>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>Merit Badge Center, Philippines :: Advancement Ranks</title>
+<!-- InstanceEndEditable -->
+<link href="/css/mainstyle2007.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#FFFFFF"><img src="/img/banner_main_2007.jpg" alt="Merit Badge Center, Philippines" width="768" height="86" /></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="25%" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/" class="mainlink">What's New?</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/advancement.php" class="mainlink">Advancement Ranks</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/awards/" class="mainlink" >Awards &amp; Programs</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/meritbadgelist.php" class="mainlink" >Merit Badges (Alphabetical)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbeaglerequired.php" class="mainlink" >Merit Badges (Eagle Required)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/specialist.php" class="mainlink" >Merit Badges (Specialist Ratings)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbgroup.php" class="mainlink" >Merit Badges (Group)</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/woodbadge/" class="mainlink" >Leader Training</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/forms.php" class="mainlink" >Forms &amp; Applications</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/" class="mainlink" >Publications &amp; Handouts</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/downloads.php" class="mainlink" >Clipart &amp; Wallpapers</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/mbcplinks.php" class="mainlink" >Sponsored Links</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/submitasite.php" class="mainlink" >Submit a Site</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/contactus/" class="mainlink" >Contact Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/aboutus.php" class="mainlink" >About Us</a></td>
+              </tr>
+              <tr>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/pub/sitehelp.php" class="mainlink" >Help</a></td>
+              </tr>
+            </table>
+              <!-- InstanceBeginEditable name="ResourceLinks" --> <br />
+            <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                          <tr>
+                            <td class="navbanner">Additional Links </td>
+                          </tr>
+                          <tr>
+                            <td><a href="/htm/awards/certscriterion.php" class="mainlink">Merit
+                                Badge Center Certificates  </a></td>
+                          </tr>
+                        </table>
+                        <p class="fineprint">&nbsp;</p>
+            <!-- InstanceEndEditable --></td>
+            <td valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="5">
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><!-- InstanceBeginEditable name="MainBody" --> 
+                  <h1>Additional Awards &amp; Programs* </h1>
+                  <table width="135" border="0" align="right" cellpadding="0" cellspacing="5">
+                    <tr>
+                      <td><img src="/img/images/bookcovers/bsp_onmyhonor.jpg" alt="Book: On My Honor" width="135" height="204" /></td>
+                    </tr>
+                    <tr>
+                      <td class="fineprint"><div align="right">A collection of
+                          real-life heroic deeds by Scouts of
+                      the Philippines.<br />
+                      ISBN971-8578-04
+</div></td>
+                    </tr>
+                  </table>
+                  <p class="maintext">These are awards and programs that augments
+                    the mainstream Scouting programs of the BSP. We are currently
+                    gathering information on these awards and programs. </p>
+                  <ul class="maintext">
+                    <li><strong>Medal of Honor</strong> (Bronze, Silver, Gold)
+                      . For demonstrating heroism and exceptional skill or
+                      resourcefulness in saving or attempting to save the life
+                      of another at extreme, considerable, or no risk to self.</li>
+              </ul>
+                  <h2>Youth Awards </h2>
+                  <ul class="maintext">
+                    <li>
+                      <p><strong>Ave Maria Cross Award.</strong> Youth religious
+                      award for Catholic Boy Scouts.</p>
+                    </li>
+                    <li>
+                      <p><strong>God and Country Award.</strong> Youth religious
+                        award for non-Catholic Boys. </p>
+                    </li>
+                    <li>
+                      <p><strong>Honesty Award.</strong> To encourage Scouts
+                        to practice the first point of the Scout Law, &quot;A Scout
+                      is Trustworthy&quot;. </p>
+                    </li>
+                    <li>
+                      <p><a href="/htm/awards/tobsp.php"><strong>Ten Outstanding
+                        Boy Scouts of the Philippines (TOBSP)</strong></a><strong>.</strong> Annual
+                        search for the best of the best among Scouts in the Philippines.
+                        Its aim is recognize Scouts who have shown outstanding
+                        qualities of school and community leadership, academic
+                        excellence, and good moral conduct. </p>
+                    </li>
+                  </ul>
+                  <h2>Adult Awards </h2>
+                  <ul class="maintext"><li>
+                    <p><strong>Medal of Merit</strong> (Bronze, Silver, Gold).
+                        For noteworthy accomplishments in connection with a Scouting
+                        activity or project that enhances the prestige of the
+                      BSP. </p>
+                    </li>
+                    <li>
+                      <p><strong>Saint Dominic Savio Award.</strong> Adult religious
+                        award for Catholic Scout leaders. Named after the patron
+                      saint of young boys and the falsly accused. </p>
+                    </li>
+                    <li>
+                      <p><strong>Service Award </strong>(Bronze, Silver, Gold).
+                        In recognition of service to the unit, institution, area,
+                        district, and local council. </p>
+                    </li>
+                    <li>
+                      <p><strong>Tamaraw Award</strong> (Bronze, Silver, Gold).
+                        For distinguished service to Scouting especially those
+                        who have served in regional, national, or international
+                        activities. The bronze and silver level may be awarded
+                        to national leaders, non-members, and outstanding overseas
+                        Scouters for distinguished services to the youth through
+                      Scouting. </p>
+                    </li>
+                    <li>
+                      <p><strong>Ten Outstanding Scoutmasters (TOSM).</strong> Annual
+                        search for the best of the best among Scoutmasters in
+                        the Philippines. </p>
+                    </li>
+                    <li><strong>Usa Award</strong> (Bronze, Silver, Gold). For
+                      outstanding service to Scouting. A council may nominate
+                      one-(1) for every 2,500 registered members as of December
+                      31st. </li>
+                  </ul>
+                  <h2>Special Awards</h2>
+                  <ul class="maintext">
+                    <li>
+                      <p><strong>TOBPA Award for Community Service.</strong> Awarded by the Ten Outstanding Boy Scouts of the Philippines Association (TOBSPA) for outstanding community project by all regional finalist of the annual Ten Outstanding Boy Scout search. The award was named differently in the two years they've given it. 
+                      </p>
+                      <ul>
+                        <li>
+                          <p><strong>Gawad Valeriano I Abello </strong>(2005) in honor of the Scout who signaled a US Navy Destroyer to prevent the bombardment of a local village during World War II mistaken by the Americans as a Japanese encampment. He then swam towards the destroyer and gave the Americans the correct location of the Japanese encampment. The award was presented to Marwin Jogenes DC Serrano (TOBS2005).</p>
+                        </li>
+                        <li>
+                          <p><strong>Gawad Aris Canoy Espinosa</strong> (2006) in honor of the 13 year old boy scout who gave his life by covering a granade with his own body to save the lives of children and other people in his neighborhood. The award was presented to Wilson Lloyd C. Estero (TOBS2006).</p>
+                        </li>
+                      </ul>
+                    </li>
+              </ul>
+              <h2>Other Awards</h2>
+                  <ul class="maintext">
+                    <li>
+                      <p><strong>Mount Makiling Award.</strong> Conferred exclusively
+                      upon heads of friendly States and Governments, Crown Princes,
+                      and Honorary Vice Presidents of the Boy Scouts of the Philippines
+                      in recognition of outstanding qualities of leadership and
+                      of extraordinary services rendered to World Scouting in
+                      the promotion of universal brotherhood of men through mutual
+                      understanding and friendship among boys of all races, creeds,
+                      and climates.</p>
+                    </li>
+                    <li>
+                      <p><strong>Tanglaw ng Kabataan Award.</strong> Conferred
+                      upon a Filipino Scouter or Lay member who has rendered
+                      specially outstanding services of unusual or extraordinary
+                      nature to the youth of the Philippines through Scouting.    </p>
+                    </li>
+              </ul>
+                  <h2>Additional Programs</h2>
+                  <ul class="maintext">
+                    <li>
+                      <p><a href="/htm/meritbadges.php?mb=esc"><strong>Emergency Service
+                      Corps.</strong></a> Senior Scouts may become part of
+                      the local Council service corp. by meeting a set of requirements.
+                      Outfits may convert into their own service corp. as well. </p>
+                    </li>
+                    <li><strong>Scout Mountaineers.</strong> A specialized high-adventure
+                    Scouting group. </li>
+              </ul>
+                  <h2>National Associations</h2>
+                  <ul class="maintext">
+                    <li>
+                      <p><strong><a href="http://www.apo.org.ph" target="_blank">Alpha Phi Omega.</a></strong> Collegiate service
+                        fraternity/sorority founded under the principles of the
+                        Scout Oath and Law. </p>
+                    </li>
+                    <li>
+                      <p><strong>Eagle Scout Association of the Philippines (ESAP).</strong></p>
+                    </li>
+                    <li>
+                      <p><strong>Scouts Royale Brotherhood. </strong>A fraternity/sorority
+                        for high school students founded by members of the Alpha
+                      Phi Omega. </p>
+                    </li>
+                    <li>
+                      <p><strong><a href="http://www.geocities.com/tobspa_scout/" target="_blank">Ten
+                        Outstanding Boy Scouts of the Philippines Association
+                        (TOBSPA)</a>. </strong></p>
+                    </li>
+              </ul>
+              <p class="fineprint">__________________<br />
+                  *If you have knowledge and information about any BSP-sponsored
+                    awards and programs included or not included in this section,
+                    please assist us by sending information about such awards
+                    and/or programs to <a href="mailto:info@meritbadge.org.ph">info@meritbadge.org.ph</a>.
+                    We are looking out for non-Christian religious
+                    awards in existence particularly those for our brother Muslims
+                    and Buddhists, if such does exists. Thank you very much. </p>
+                  <p class="fineprint">&nbsp;</p>
+          <!-- InstanceEndEditable --></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellpadding="3" cellspacing="1" class="tablebordertopbot">
+          <tr>
+            <td width="50%">Copyright &copy; 2007, Merit Badge Center, Philippines </td>
+            <td width="50%" align="right" background="/htm/pub/mbcpterms.php" class="fineprint"><a href="/htm/pub/mbcpterms.php" class="stealth">Terms, Conditions, and Information</a> </td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td bgcolor="#FFFFFF" class="fineprint"><table width="100%" border="0" cellspacing="1" cellpadding="3">
+          <tr>
+            <td>Since August 4, 1999<br />
+              Fourth Edition September 30, 2003 </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

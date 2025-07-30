@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=ecology" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimages/eaglerequired.jpg"><img src="/mbimagespng/ecology.png"><span class="maintext">
+<h1>Ecology</h1>
+
+
+<ol type=1><p>
+
+<li>Explain the meaning of the following: ecology, biosphere, ecosystem, plant succession, limiting factor. Give an example of the last two.<p>
+
+<li>With the help of your Counselor, pick an area of 3 hectares for study. City Scouts may pick an area in a large park, if a better place is not available.<p>
+
+<li>Visit the area four times for 2 hours each time. Do this at different times on one day a week for a month; or if at camp, on four different days of the week at different times of the day.
+<ol type=a>
+<li>Record the temperature, rain, and wind
+<li>List the animals you saw. Tell what they were doing
+<li>List the plants you saw
+<li>Name the kinds of rocks and soil</ol><p>
+
+<li>Write about your study in 500 words or more showing:
+<ol type=a>
+<li>How the climate, topography, and geology have influenced the number and kinds of plants and animals
+<li>How the living and non-living elements are interrelated
+<li>Why it is important that people understand this</ol><p>
+
+<li>With your Counselor, plan and carry out a project on one of the following:
+<ol type=a>
+<li>The effect of water-holding capacity of soil on plant life. The relation of plant cover to run-off. How both are related to the water and oxygen cycles.
+<li>The influence of land plant life on temperature, light intensity, wind velocity, and humidity. The influence of water plant life on the water environment. How both land and water plants affect animal life.</ol><p>
+
+<li>Make a report, in the form of a short talk to a Scout group, on what you did in requirement 5.<p>
+
+<li>Show you understand the following:
+<ol type=a>
+<li>The causes of water pollution. Tell what it does to rivers and lakes.
+<li>The causes of land pollution. Tell what it does to the environment.
+<li>The causes of air pollution. Tell what it does to the environment.
+<li>How some chemicals get into the tissues of animals miles from where they were used.</ol><p>
+
+<li>Describe what you and others can do to help solve a local problem or air pollution, water pollution, or litter.<p>
+
+<li>Describe the duties of three positions in environmental science.</ol>
+
+</span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=ecology" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

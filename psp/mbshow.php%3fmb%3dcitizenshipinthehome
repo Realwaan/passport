@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=citizenshipinthehome" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimages/eaglerequired.jpg"><img src="/mbimagespng/citizenshipinthehome.png"><span class="maintext">
+<h1>Citizenship in the Home</h1>
+
+
+<ol type=1><p>
+
+<li>Discuss with your parents (or teacher) and Counselor:
+<ol type=a>
+<li>the meaning of citizenship
+<li>the importance of the home in the training of a Scout for citizenship</ol><p>
+
+<li>Submit a statement from your parents or other people who are familiar with your conduct at home, evidence you practice good citizenship at home by being courteous, fair and helpful to members of your family and that you put into practice the Scout Oath and Law, Scout Motto and Slogan. (A suitable certification form must be made available for filling the above requirement).<p>
+
+<li>Prepare a list (at least five) of your regular home duties for at least one month and keep a record of how often you do them.<p>
+
+<li>Discuss with your family or Merit Badge Counselor your rights and obligation in your family.<p>
+
+<li>Do the following:
+<ol type=a>
+<li>Make a health and safety check-up of your home, and help your family correct as many hazards as possible.
+<li>Prepare with your family a plan of escape in case of fire in your home.
+<li>Tell how to get help in case of accident, illness, fire and other emergencies in your home.</ol><p>
+
+<li>Do at least one major Good Turn for your home outside of your regular duties.<p>
+
+<li>Make a budget and keep a record of your own income and/or allowances and expenses for two months. Explain why it is wise to live within one's means.<p>
+
+<li>Submit a report on a family group activity which you helped to plan, prepare and carry out.</ol></span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=citizenshipinthehome" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

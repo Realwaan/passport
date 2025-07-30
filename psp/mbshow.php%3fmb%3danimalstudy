@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Merit Badge Center, Philippines</title>
+<link href="/jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="/jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="/jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="/jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="/img/iphoneicon.jpg"/>
+<link rel="apple-touch-startup-image" href="/img/iphonecover.jpg" />
+</head>
+
+<body>
+<div data-role="page" id="page" data-theme="d">
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=animalstudy" data-transition="slide" data-role="button" data-icon="arrow-r" data-theme="a">Resource</a>
+  </div>
+</div>
+  <div data-role="content">
+    <img src="/mbimagespng/animalstudy.png"><span class="maintext">
+<h1>Animal Study</h1>
+
+<ol type=1><p>
+
+(Animals, in the zoological sense, include all living organisms other than plants life - from amoeba up through man. However - since birds, reptiles, amphibians, and insects are covered in other Merit Badge subjects - choose other examples of animal life for these requirements).<p>
+
+<li>Make five (5) field trips of at least two hours each (preferably on different months of the year) to observe wild animal life. Keep records of such trips, listing all animals seen, with date, place, nature of locality, and observations of animals and their habits. (Photographs, sketches, track casts, etc. will add interest to this record).<p>
+
+<li>Using the "keys" of the modern system of classifying animal life, classify at least five (5) animals of different phyla which you yourself select.<p>
+
+<li>Find out the life processes that are common to all animal life (birth, self-protection, feeding, breathing, etc.). Keep a record of personal observation of the life cycle and habits of at least two (2) animals of different phyla.<p>
+
+<li>On a map of your locality (showing such things as forests, plains, streams, marshes, and areas, etc.), indicate animals found in each habitat. Know what is being done in the country to protect wild animal life.<p>
+
+<li>Carry out one of the following projects:
+<ol type=a>
+<li>Keep a young animal (completely weaned from its mother) such as a rabbit or a guinea pig for at least three (3) months. Keep a record of its life cycle and habits.
+<li>Maintain an aquarium or "toad pan" for at least three (3) months. Stock from local ponds, streams, or marshes. Watch development from egg on - of frogs, toads, turtles, fish, or whatever animal you have chosen for special observation. Keep a record of its life cycle and habits.
+<li>Submit at least ten (10) photographs or sketches (based on your own observation) of microscopic life in the field for at least three (3) months.</ol></ol></span><p>
+  </div>
+<div class="ui-grid-a">
+  <div class="ui-block-b" align="left">
+    <a href="#" data-transition="reverse slide" data-role="button" data-icon="arrow-l" data-theme="a" onclick="history.back();">BACK</a>
+  </div>
+  <div class="ui-block-b" align="right">
+	<a href="/htm/psp/mbresource.php?mb=animalstudy" data-transition="slide" data-role="button" data-theme="a" data-icon="arrow-r">Resource</a>
+  </div>
+</div>  
+</div>
+<p>&nbsp;</p>
+</body>
+</html><script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/339fa4667667c83a817343a7a139e39a?id=a16b074e9248";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>
