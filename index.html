@@ -37,7 +37,7 @@
                 <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/" class="mainlink">Home</a></td>
               </tr>           
               <tr>
-                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/advancement.php" class="mainlink">Advancement Ranks</a></td>
+                <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/advancement.php" class="mainlink">Advancement Ranks</a></td>
               </tr>
               <tr>
                 <td bgcolor="#BDC9BA" onMouseOver="mOvr1(this);" onMouseOut="mOut1(this);" onClick="mClk(this);"><a href="/htm/meritbadgelist.php" class="mainlink" >Merit Badges (Alphabetical)</a></td>
